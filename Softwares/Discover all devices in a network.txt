@@ -1,0 +1,3 @@
+https://nmap.org/
+
+It will scan ur network and reveal all devices ip address with some other information

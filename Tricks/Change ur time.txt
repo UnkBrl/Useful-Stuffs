@@ -1,0 +1,1 @@
+If u change the time of a device(+1hrs) then there is a change that ur apps/games will think that u have already waited some hours and apps/games will give u result.

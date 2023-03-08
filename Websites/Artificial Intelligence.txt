@@ -1,0 +1,3 @@
+https://chat.openai.com/chat
+
+Ask it any questions and it will answer
