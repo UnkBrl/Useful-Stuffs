@@ -1,1 +1,5 @@
-
+download   https://github.com/Xooppp/SoulTaker-Multitool
+start    D:\SoulTaker\PROGRAMS\Dox_Tool_V2.exe
+goto email search
+then type the email
+finally, click on search
